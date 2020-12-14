@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3afcd6-06db-44e8-9d3e-7c964ad91094" name="Default Changelist" comment="" />
+    <list default="true" id="2d3afcd6-06db-44e8-9d3e-7c964ad91094" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/home-appliance.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/home-appliance.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +27,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -132,6 +140,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1lYDJQTWrO5SPTwwLEfCrj53JcS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -183,7 +192,7 @@
       <workItem from="1607845577017" duration="13446000" />
       <workItem from="1607884069565" duration="1239000" />
       <workItem from="1607917407253" duration="4580000" />
-      <workItem from="1607927304063" duration="18610000" />
+      <workItem from="1607927304063" duration="20168000" />
     </task>
     <servers />
   </component>

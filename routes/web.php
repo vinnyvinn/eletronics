@@ -37,6 +37,9 @@ Route::get('/collections/electronic', function () {
 Route::get('/collections/home-appliance', function () {
     return view('pages.home-appliance');
 });
+Route::get('/collections/camera', function () {
+    return view('pages.camera');
+});
 
 Route::get('/collections/phone/details', function () {
     return view('pages.details.phone');

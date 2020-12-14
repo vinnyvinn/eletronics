@@ -1520,11 +1520,11 @@
                                                                 </li>
 
                                                                 <li class="supmenu-li">
-                                                                    <a href="/collections/camera" class="suplink-title">Camera</a>
+                                                                    <a href="{{url("/collections/camera")}}" class="suplink-title">Camera</a>
                                                                 </li>
 
                                                                 <li class="supmenu-li">
-                                                                    <a href="/collections/laptop" class="suplink-title">Laptop</a>
+                                                                    <a href="/collections/computer" class="suplink-title">Laptop</a>
                                                                 </li>
 
                                                             </ul>
@@ -1585,15 +1585,15 @@
                                                                 id="collapse-laptop-pc">
 
                                                                 <li class="supmenu-li">
-                                                                    <a href="/collections/laptop" class="suplink-title">Charger</a>
+                                                                    <a href="/collections/computer" class="suplink-title">Charger</a>
                                                                 </li>
 
                                                                 <li class="supmenu-li">
-                                                                    <a href="/collections/camera" class="suplink-title">Cover</a>
+                                                                    <a href="{{url("/collections/camera")}}" class="suplink-title">Cover</a>
                                                                 </li>
 
                                                                 <li class="supmenu-li">
-                                                                    <a href="/collections/camera" class="suplink-title">Camera</a>
+                                                                    <a href="{{url("/collections/camera")}}" class="suplink-title">Camera</a>
                                                                 </li>
 
                                                                 <li class="supmenu-li">
@@ -1753,7 +1753,7 @@
 
 
                                                 <li class="menu-link">
-                                                    <a href="/collections/laptop" class="link-title">
+                                                    <a href="/collections/computer" class="link-title">
 
 
                                                         <img class="img-fluid"
@@ -1762,7 +1762,7 @@
 
                                                         <span class="sp-link-title">Laptop</span>
                                                     </a>
-                                                    <a href="/collections/laptop" class="link-title link-title-lg">
+                                                    <a href="/collections/computer" class="link-title link-title-lg">
 
 
                                                         <img class="img-fluid"
@@ -1838,7 +1838,7 @@
 
 
                                                 <li class="menu-link">
-                                                    <a href="/collections/laptop" class="link-title">
+                                                    <a href="/collections/computer" class="link-title">
 
 
                                                         <img class="img-fluid"
@@ -1847,7 +1847,7 @@
 
                                                         <span class="sp-link-title">Macbook</span>
                                                     </a>
-                                                    <a href="/collections/laptop" class="link-title link-title-lg">
+                                                    <a href="/collections/computer" class="link-title link-title-lg">
 
 
                                                         <img class="img-fluid"
@@ -2044,10 +2044,10 @@
 
 
                                                 <li class="menu-link">
-                                                    <a href="/collections/camera" class="link-title">
+                                                    <a href="{{url("/collections/camera")}}" class="link-title">
                                                         <span class="sp-link-title">Camera</span>
                                                     </a>
-                                                    <a href="/collections/camera" class="link-title link-title-lg">
+                                                    <a href="{{url("/collections/camera")}}" class="link-title link-title-lg">
                                                         <span class="sp-link-title">Camera</span>
                                                     </a>
                                                 </li>
@@ -2210,7 +2210,7 @@
                                                 </script>
 
 
-                                                <li class="menu-link parant">
+                                                <li class="menu-link parant" style="display: none">
                                                     <a class="link-title" href="JavaScript:void(0)">
                                                         <span class="sp-link-title">Pages</span>
                                                         <i class="fa fa-angle-down"></i>
@@ -2277,7 +2277,7 @@
                                                 </script>
 
 
-                                                <li class="menu-link">
+                                                <li class="menu-link" style="display: none">
                                                     <a href="https://themeforest.net/item/electon-the-electronics-gadgets-ecommerce-shopify-theme/29635247?s_rank=1"
                                                        class="link-title">
                                                         <span class="sp-link-title">Buy Electon <span

@@ -14,7 +14,7 @@
                             </div>
                         </div>
                         <div class="collection-img-wrap">
-                            <h6 class="st-title">HOME APPLIANCE</h6>
+                            <h6 class="st-title">Camera</h6>
                             <div class="collection-info">
                                 <div class="collection-image">
 
@@ -200,6 +200,7 @@
                                                                 </a>
                                                                 <div class="product-label">
 
+
                                                                     <span class="soldout-title">Soldout</span>
                                                                 </div>
 
@@ -241,7 +242,7 @@
                                                         <div class="single-product-wrap ">
                                                             <div class="product-image ">
                                                                 <a class="pro-img"
-                                                                   href="/{{url("/collections/electronic/details")}}">
+                                                                   href="{{url("/collections/electronic/details")}}">
                                                                     <img class="img-fluid img1"
                                                                          src="//cdn.shopify.com/s/files/1/0509/6331/6893/products/pro37_9c497408-cd03-4ba8-b516-981c770bbaae_300X350_crop_center.jpg?v=1606987296"
                                                                          alt="JBL Speaker">
@@ -2923,7 +2924,4 @@
             }
         </style>
     </div>
-
-
 @endsection
-
