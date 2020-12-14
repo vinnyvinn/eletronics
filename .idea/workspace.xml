@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2d3afcd6-06db-44e8-9d3e-7c964ad91094" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/home-appliance.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/home-appliance.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/partials/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/content/90711c63c8rn184930d829205947473e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/content/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/headphone.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/headphone.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/layouts/scripts-head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/layouts/scripts-head.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +151,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/css/content" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -163,6 +164,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/assets/css/content" />
       <recent name="$PROJECT_DIR$/resources/views/pages" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/public/assets/css/fonts/WebFonts" />
@@ -192,7 +194,7 @@
       <workItem from="1607845577017" duration="13446000" />
       <workItem from="1607884069565" duration="1239000" />
       <workItem from="1607917407253" duration="4580000" />
-      <workItem from="1607927304063" duration="20168000" />
+      <workItem from="1607927304063" duration="26440000" />
     </task>
     <servers />
   </component>
